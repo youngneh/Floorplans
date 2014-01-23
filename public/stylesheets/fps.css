@@ -1,0 +1,17 @@
+/* Sortable tables */
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}
+
+table, th, td {
+    border: 1px solid black;    
+}
+
+th, td {
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
